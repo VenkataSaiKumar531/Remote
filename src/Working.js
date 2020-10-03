@@ -42,7 +42,7 @@ const Working = () => {
       </Button>
       <hr />
       <Button variant="contained" color="secondary" onClick={Fan}>
-        FanSpeed*️⃣
+        Speed Mode:-*️⃣
       </Button>
     </div>
   );
